@@ -1,0 +1,7 @@
+c:\users\kay\Desktop\ThreeStringsAPlenty\ThreeStringsAPlenty\bin\Debug\ThreeStringsAPlenty.exe.config
+c:\users\kay\Desktop\ThreeStringsAPlenty\ThreeStringsAPlenty\bin\Debug\ThreeStringsAPlenty.exe
+c:\users\kay\Desktop\ThreeStringsAPlenty\ThreeStringsAPlenty\bin\Debug\ThreeStringsAPlenty.pdb
+c:\users\kay\Desktop\ThreeStringsAPlenty\ThreeStringsAPlenty\obj\Debug\ThreeStringsAPlenty.csprojAssemblyReference.cache
+c:\users\kay\Desktop\ThreeStringsAPlenty\ThreeStringsAPlenty\obj\Debug\ThreeStringsAPlenty.csproj.CoreCompileInputs.cache
+c:\users\kay\Desktop\ThreeStringsAPlenty\ThreeStringsAPlenty\obj\Debug\ThreeStringsAPlenty.exe
+c:\users\kay\Desktop\ThreeStringsAPlenty\ThreeStringsAPlenty\obj\Debug\ThreeStringsAPlenty.pdb
